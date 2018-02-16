@@ -7,4 +7,5 @@ This is a Weather Application for keeping track of the weather for the cities th
 * Redux
 * Sparkline Graph API
 * Google Maps API
+* OpenWeather Api
 
